@@ -37,5 +37,38 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
+}
 
+.button {
+  background-color: #4ECCA3;
+  border: none;
+  color:black;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 50px;
+  margin: 40px 460px;
+  font-family: 'Indie Flower', cursive;
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+}
+
+@media only screen and (max-width: 1200px) {
+  .button {
+  background-color: #4ECCA3;
+  border: none;
+  color:black;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display:inline-block;
+  font-size: 50px;
+  margin: 40px 40px;
+  font-family: 'Indie Flower', cursive;
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+  }
 }
