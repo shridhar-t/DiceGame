@@ -1,5 +1,5 @@
 # DiceGame
-This is 5min project just to settle bets.
+This is a 5 minute project just to settle bets.
 ### How to Access ?
 https://shridhar-t.github.io/DiceGame/
 ### How to Use ?
