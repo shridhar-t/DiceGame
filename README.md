@@ -7,4 +7,4 @@ Just click on Roll and which ever player has the higher number wins or even a dr
 ### How I made it ?
 Just plain JavaScript with knowledge about DOM manipulations.
 ### ScreenShot
-<img src="/images/proj.png" alt="Opps error occured!">
+<img src="/images/proj2.png" alt="Opps error occured!">
