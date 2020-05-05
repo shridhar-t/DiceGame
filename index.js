@@ -1,6 +1,8 @@
 document.querySelector(".img1").setAttribute("src", "./images/dice1.png");
 document.querySelector(".img2").setAttribute("src", "./images/dice1.png");
 document.querySelector(".button").addEventListener("click", () => {
+    $(".img1").fadeOut(200).fadeIn(100);
+    $(".img2").fadeOut(200).fadeIn(100);
     var audio = new Audio("./sounds/roll.mp3");
     audio.play();
     var random1 = Math.floor((6 * Math.random()) + 1);
